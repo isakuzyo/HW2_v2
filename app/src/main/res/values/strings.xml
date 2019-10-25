@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WcDonald\'s</string>
+    <string name="view_menu">View Menu</string>
+    <string name="your_order">Your Order</string>
+    <string name="confirm">confirm</string>
+    <string name="total">Total:</string>
+    <string name="update">Update</string>
+    <string name="money">money</string>
+</resources>
